@@ -93,8 +93,8 @@
                     },
                 },
                 responsiveLevels:[4096,1199,992,767,480],
-                gridwidth:[1170,970,750,700,400],
-                gridheight:[800,800,550,550,500],
+                // gridwidth:[1170,970,750,700,400],
+                // gridheight:[800,800,550,550,500],
                 lazyType:"smart",
                 fallbacks: {
                     simplifyAll:"off",
@@ -157,8 +157,8 @@
                     },
                 },
                 responsiveLevels:[4096,1199,992,767,480],
-                gridwidth:[1170,970,750,700,400],
-                gridheight:[580,580,580,550,500],
+                // gridwidth:[1170,970,750,700,400],
+                // gridheight:[580,580,580,550,500],
                 lazyType:"smart",
                 fallbacks: {
                     simplifyAll:"off",
@@ -223,8 +223,8 @@
                     },
                 },
                 responsiveLevels:[4096,1199,992,767,480],
-                gridwidth:[1170,970,750,700,400],
-                gridheight:[710,710,550,550,500],
+                // gridwidth:[1170,970,750,700,400],
+                // gridheight:[710,710,550,550,500],
                 lazyType:"smart",
                 fallbacks: {
                     simplifyAll:"off",
