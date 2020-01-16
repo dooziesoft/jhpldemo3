@@ -1370,8 +1370,8 @@ button:focus {
 .breadcrumb_area {
   background: url(../img/banner/banner-bg.jpg) no-repeat scroll center center;
   background-size: cover;
-  padding-top: 160px;
-  padding-bottom: 160px;
+  padding-top: 70px;
+  padding-bottom: 70px;
   position: relative;
   z-index: 2;
 }
